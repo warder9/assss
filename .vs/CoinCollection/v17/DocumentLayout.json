@@ -1,0 +1,375 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alisher\\CoinCollection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\CarExplosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\CarExplosion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\GameUIController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\GameUIController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\Bomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\Bomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\QuitOnEscape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\QuitOnEscape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\HideCursor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\HideCursor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\CarSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\CarSpawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\CarUIController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\CarUIController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\SelectableCar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\SelectableCar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisher\\CoinCollection\\Assets\\PROMETEO - Car Controller\\Scripts\\PrometeoCarController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\PROMETEO - Car Controller\\Scripts\\PrometeoCarController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\LevelSelect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\LevelSelect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\CarSelect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\CarSelect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\MainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\MainMenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\IntroManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\IntroManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisher\\CoinCollection\\Library\\PackageCache\\com.unity.inputsystem@e2c83221d2dc\\InputSystem\\Actions\\InputActionAsset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.inputsystem@e2c83221d2dc\\InputSystem\\Actions\\InputActionAsset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\DriftScoringSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\DriftScoringSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\DriftManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\DriftManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\CoinCollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\CoinCollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\AICarFollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\AICarFollower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\CoinSpin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\CoinSpin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\CarLightSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\scripts\\CarLightSystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarExplosion.cs",
+              "DocumentMoniker": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\CarExplosion.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\CarExplosion.cs",
+              "ToolTip": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\CarExplosion.cs",
+              "RelativeToolTip": "Assets\\scripts\\CarExplosion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:53:18.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bomb.cs",
+              "DocumentMoniker": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\Bomb.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Bomb.cs",
+              "ToolTip": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\Bomb.cs",
+              "RelativeToolTip": "Assets\\scripts\\Bomb.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwBoAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T12:15:11.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SelectableCar.cs",
+              "DocumentMoniker": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\SelectableCar.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\SelectableCar.cs",
+              "ToolTip": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\SelectableCar.cs",
+              "RelativeToolTip": "Assets\\scripts\\SelectableCar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T13:59:52.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\CarSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\CarSpawner.cs",
+              "ToolTip": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\CarSpawner.cs",
+              "RelativeToolTip": "Assets\\scripts\\CarSpawner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:41:13.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CarSelect.cs",
+              "DocumentMoniker": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\CarSelect.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\CarSelect.cs",
+              "ToolTip": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\CarSelect.cs",
+              "RelativeToolTip": "Assets\\scripts\\CarSelect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:22:19.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LevelSelect.cs",
+              "DocumentMoniker": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\LevelSelect.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\LevelSelect.cs",
+              "ToolTip": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\LevelSelect.cs",
+              "RelativeToolTip": "Assets\\scripts\\LevelSelect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:21:01.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\MainMenu.cs",
+              "ToolTip": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\scripts\\MainMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:56:04.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\AudioManager.cs",
+              "ToolTip": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\AudioManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:46:22.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IntroManager.cs",
+              "DocumentMoniker": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\IntroManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\IntroManager.cs",
+              "ToolTip": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\IntroManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\IntroManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:37:22.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameUIController.cs",
+              "DocumentMoniker": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\GameUIController.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\GameUIController.cs",
+              "ToolTip": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\GameUIController.cs",
+              "RelativeToolTip": "Assets\\scripts\\GameUIController.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAIYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T14:18:06.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuitOnEscape.cs",
+              "DocumentMoniker": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\QuitOnEscape.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\QuitOnEscape.cs",
+              "ToolTip": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\QuitOnEscape.cs",
+              "RelativeToolTip": "Assets\\scripts\\QuitOnEscape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T12:26:46.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CarUIController.cs",
+              "DocumentMoniker": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\CarUIController.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\CarUIController.cs",
+              "ToolTip": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\CarUIController.cs",
+              "RelativeToolTip": "Assets\\scripts\\CarUIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T13:31:22.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HideCursor.cs",
+              "DocumentMoniker": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\HideCursor.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\HideCursor.cs",
+              "ToolTip": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\HideCursor.cs",
+              "RelativeToolTip": "Assets\\scripts\\HideCursor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:37:49.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InputActionAsset.cs",
+              "DocumentMoniker": "C:\\Users\\alisher\\CoinCollection\\Library\\PackageCache\\com.unity.inputsystem@e2c83221d2dc\\InputSystem\\Actions\\InputActionAsset.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.inputsystem@e2c83221d2dc\\InputSystem\\Actions\\InputActionAsset.cs",
+              "ToolTip": "C:\\Users\\alisher\\CoinCollection\\Library\\PackageCache\\com.unity.inputsystem@e2c83221d2dc\\InputSystem\\Actions\\InputActionAsset.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.inputsystem@e2c83221d2dc\\InputSystem\\Actions\\InputActionAsset.cs",
+              "ViewState": "AQIAAL4BAAAAAAAAAAAAwNEBAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T17:18:57.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PrometeoCarController.cs",
+              "DocumentMoniker": "C:\\Users\\alisher\\CoinCollection\\Assets\\PROMETEO - Car Controller\\Scripts\\PrometeoCarController.cs",
+              "RelativeDocumentMoniker": "Assets\\PROMETEO - Car Controller\\Scripts\\PrometeoCarController.cs",
+              "ToolTip": "C:\\Users\\alisher\\CoinCollection\\Assets\\PROMETEO - Car Controller\\Scripts\\PrometeoCarController.cs",
+              "RelativeToolTip": "Assets\\PROMETEO - Car Controller\\Scripts\\PrometeoCarController.cs",
+              "ViewState": "AQIAAF0BAAAAAAAAAAAAwJABAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T11:29:39.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\GameManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:43:32.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DriftScoringSystem.cs",
+              "DocumentMoniker": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\DriftScoringSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\DriftScoringSystem.cs",
+              "ToolTip": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\DriftScoringSystem.cs",
+              "RelativeToolTip": "Assets\\scripts\\DriftScoringSystem.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAQwGoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T09:43:06.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DriftManager.cs",
+              "DocumentMoniker": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\DriftManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\DriftManager.cs",
+              "ToolTip": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\DriftManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\DriftManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T09:03:51.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AICarFollower.cs",
+              "DocumentMoniker": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\AICarFollower.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\AICarFollower.cs",
+              "ToolTip": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\AICarFollower.cs",
+              "RelativeToolTip": "Assets\\scripts\\AICarFollower.cs",
+              "ViewState": "AQIAALcAAAAAAAAAAAAQwNsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T11:26:32.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CoinSpin.cs",
+              "DocumentMoniker": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\CoinSpin.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\CoinSpin.cs",
+              "ToolTip": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\CoinSpin.cs",
+              "RelativeToolTip": "Assets\\scripts\\CoinSpin.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T10:46:05.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CarLightSystem.cs",
+              "DocumentMoniker": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\CarLightSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\CarLightSystem.cs",
+              "ToolTip": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\CarLightSystem.cs",
+              "RelativeToolTip": "Assets\\scripts\\CarLightSystem.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwC0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T10:26:32.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CoinCollector.cs",
+              "DocumentMoniker": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\CoinCollector.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\CoinCollector.cs",
+              "ToolTip": "C:\\Users\\alisher\\CoinCollection\\Assets\\scripts\\CoinCollector.cs",
+              "RelativeToolTip": "Assets\\scripts\\CoinCollector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T14:17:41.158Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
